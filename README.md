@@ -5,7 +5,6 @@ This repository contains a Power BI dashboard designed to analyze and visualize 
 
 # Sales Overview
 ![dashboard_snapshor](DashBoard_snapshot.png)
-`Coffee_Shop_Project_file.pdf`
-[coffee_Shop_Project_file.pdf]
+
 
 
